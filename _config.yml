@@ -1,0 +1,46 @@
+title: zsj-jaz.github.io
+name: Jaz Zhou
+description: >-
+  Data Systems • ML • Databases
+
+# Use Minimal Mistakes via remote_theme (GitHub Pages compatible)
+remote_theme: "mmistakes/minimal-mistakes@4.26.0"
+
+# Minimal Mistakes essentials
+minimal_mistakes_skin: "default"   # other skins: air, dark, neon, etc.
+locale: en
+markdown: kramdown
+permalink: /:categories/:title/
+paginate: 5
+
+# Plugins supported by GitHub Pages
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-include-cache
+
+# Site URL (update after enabling Pages)
+url: "https://zsj-jaz.github.io"
+baseurl: ""   # leave empty for user/organization site
+
+# Author/Social (edit to yours)
+author:
+  name: "Jaz Zhou"
+  avatar: "/assets/images/avatar.jpg"
+  bio: "Data & ML • Query optimization • OCR"
+  location: "Philadelphia, PA"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:you@example.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/zsj-jaz"
+    - label: "Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/..."
+
+# Navigation (points to _data/navigation.yml)
+include: ["_pages"]
