@@ -1,6 +1,6 @@
 ---
 layout: home
-title: ""
+title: "kk"
 permalink: /
 author_profile: true
 ---

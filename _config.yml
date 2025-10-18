@@ -1,4 +1,4 @@
-title: zsj-jaz.github.io
+title: Jaz Zhou
 name: Jaz Zhou
 description: >-
   Data Systems • ML • Databases
@@ -7,7 +7,7 @@ description: >-
 remote_theme: "mmistakes/minimal-mistakes@4.26.0"
 
 # Minimal Mistakes essentials
-minimal_mistakes_skin: "default"   # other skins: air, dark, neon, etc.
+minimal_mistakes_skin: "air"   # other skins: air, dark, neon, etc.
 locale: en
 markdown: kramdown
 permalink: /:categories/:title/
