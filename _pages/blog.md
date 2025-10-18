@@ -5,4 +5,4 @@ permalink: /blog/
 author_profile: true
 ---
 
-Welcome — this is where I write **research reflections, paper reviews, and insights I’m learning publicly**.
+Hey! Here's some honest thoughts..**.

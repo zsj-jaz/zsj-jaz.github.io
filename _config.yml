@@ -29,7 +29,7 @@ baseurl: ""   # leave empty for user/organization site
 author:
   name: "Jaz Zhou"
   avatar: "/assets/images/avatar.png"
-  bio: "Data & ML • Query optimization • OCR"
+  bio: "Data & ML • Query optimization"
   location: "San Jose, CA"
   links:
     - label: "Email"
