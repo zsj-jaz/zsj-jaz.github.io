@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "What is Attention?"
-excerpt: "Trying to understand the origin of "Attention Head""
+title: "Attention’s Origin Story"
+excerpt: 'Trying to understand the origin of "Attention Head"'
 permalink: /blog/<slug>/
 categories: [paper-notes]
 tags: [llm, review, ml, attention]   # edit freely
@@ -11,7 +11,8 @@ read_time: true
 share: true
 ---
 
-> **TL;DR**: Similarity between Query and Key if probability, weighted sum of Value is the result.
+> **Attention, at its core, is just a probability — computed from how similar a Query is to a Key — and the result is simply the weighted sum of the corresponding Values.**
+
 
 ## Where Does Attention Come From?
 
@@ -25,7 +26,7 @@ This blog is my attempt to trace that origin and understand how attention truly 
 
 ---
 
-## Evolution Chain (If you just want the quick version)
+## the TL;DR Version
 Neural Turing Machines (2014) — neural networks with external memory
         ↓
 Memory Networks (2014–2015) — store facts as memory slots
