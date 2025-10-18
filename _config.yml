@@ -28,9 +28,9 @@ baseurl: ""   # leave empty for user/organization site
 # Author/Social (edit to yours)
 author:
   name: "Jaz Zhou"
-  avatar: "/assets/images/avatar.jpg"
+  avatar: "/assets/images/avatar.png"
   bio: "Data & ML • Query optimization • OCR"
-  location: "Philadelphia, PA"
+  location: "San Jose, CA"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"

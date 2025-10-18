@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "zsj-jaz.github.io"
+title: ""
 author_profile: true
 ---
 
