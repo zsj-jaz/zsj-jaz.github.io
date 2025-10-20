@@ -43,3 +43,9 @@ Results = 0.99 * (Jaz's) + 0.01 * (Winter) ≈ Jaz's
 **That’s the core idea.**  
 Attention = "which memory is most relevant?"  
 Value = "what answer does that memory contain?"
+
+## One Sentence to Summarize the Original Attention
+
+The context vector is computed as a weighted sum of the encoder’s annotations, where each weight reflects how relevant the annotation — centered on a specific input word — is to the decoder’s current state. This context vector is then fed into the decoder, instead of the single fixed sentence embedding used in earlier encoder–decoder models.
+
+

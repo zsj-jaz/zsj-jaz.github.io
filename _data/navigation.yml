@@ -5,6 +5,8 @@ main:
     url: /projects/
   - title: "Blog"
     url: /blog/
+  - title: "To Read"
+    url: /to-read/
   - title: "Tags"
     url: /tags/
   - title: "CV"
